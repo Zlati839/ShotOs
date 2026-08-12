@@ -1,15 +1,18 @@
+# OneShot OS
+
 The OS is based after the hit game OneShot.
 
-## 1. Functions
+## Functions
+- File Manager
+- Settings
+- Calendar
+- Browser
+- Paint App
+- Terminal
 
-It has a File Manager, some settings, a calendar, a browser, a paint app, and a terminal.
+## Resources
+Made using HTML, JavaScript, and CSS.
+I also used Stack Overflow for help with some problems.
 
-There are also some settings for customization for background and colors.
-
-## 2. Resources
-
-I used HTML, JavaScript, and CSS for the project, along with help from the Stack Overflow website for help with some problems.
-
-## 3. Skill
-
-It's my first time using any of the 3 languages, so the code itself is really janky and unorganized.
+## Skills
+This was my first time using these 3 languages, so the code is pretty janky and unorganized.
